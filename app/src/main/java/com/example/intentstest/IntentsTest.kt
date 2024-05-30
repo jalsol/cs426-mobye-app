@@ -83,7 +83,7 @@ fun IntentsTestApp() {
             }
             Button(
                 onClick = {
-                    message(context, "cocks n' balls")
+                    message(context, "ilysmmmmm")
                 },
                 modifier = modifier
             ) {
